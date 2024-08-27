@@ -1,4 +1,4 @@
-# CMPDCrimeAnalysis
+# CMPD Crime Dashboard
 
 ## The Dashboard
 
