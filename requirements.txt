@@ -1,0 +1,13 @@
+dash==2.16.1
+pandas==2.2.1
+shapely==2.0.3
+datetime==5.5
+plotly==5.0.0
+requests==2.31.0
+urllib3==2.2.1
+Flask==2.1.2
+Werkzeug==2.0.0
+numpy==1.26.4
+gunicorn
+dash-bootstrap-components
+orjson
